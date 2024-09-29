@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=n9lzbqgx3mevozfirq6^m6m#5j^ehp*6sug_)@bn&ze41xyem
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['scrapping-roan.vercel.app']
 
 
 # Application definition
